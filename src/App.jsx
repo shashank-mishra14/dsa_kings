@@ -1,4 +1,9 @@
-import logo from './logo.svg';
+import React from 'react';
+import Navbar from './Navbar/navbar';
+import Sidebar from './Sidebar/sidebar';
+import Home from './Home';
+import Footer from './Footer/footer';
+
 import './App.css';
 
 function App() {
