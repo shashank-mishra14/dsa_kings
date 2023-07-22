@@ -5,7 +5,7 @@ function App() {
   return (
     <div className="App">
       <h1>DSA Kings</h1>
-      
+      <h1> Welcome to the best DSA Community</h1>
     </div>
   );
 }
