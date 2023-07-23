@@ -10,8 +10,9 @@ function App() {
   return (
     <div className="App">
       <Sidebar></Sidebar>
-    <Navbar></Navbar>
-    <Footer></Footer>
+      <Navbar></Navbar>
+      <Footer></Footer>
+      <Home></Home>
     </div>
   );
 }
